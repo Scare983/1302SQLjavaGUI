@@ -1,0 +1,24 @@
+Could not read command: 
+(create datase hello)
+
+Database hello could not be created.null
+(create database hello)
+
+Table goodbye.tab could not be created. null
+(create table hello.goodbye)
+
+Could not read command: 
+(create datase hello)
+
+Could not read command: 
+(select * goodbye.tab)
+
+Could not read command: 
+(select * hello.goodbye.tab)
+
+Table hello/goodbye.tab.tab not found. null
+(select * from hello.goodbye.tab)
+
+Could not select from file.null
+(select * from goodbye.tab)
+

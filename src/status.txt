@@ -1,0 +1,31 @@
+Inserted "kevin" into 
+/home/ugrads/klinnane/cs1302/project2/src/hello/goodbye.tab
+
+kevin
+The contents of /home/ugrads/klinnane/cs1302/project2/src/hello/goodbye.tab are shown in the output panel
+
+
+Database hello created. 
+/home/ugrads/klinnane/cs1302/project2/src/hello
+
+Table goodbye.tab created 
+/home/ugrads/klinnane/cs1302/project2/src/hello/goodbye.tab
+
+Inserted "kevin" into 
+/home/ugrads/klinnane/cs1302/project2/src/hello/goodbye.tab
+
+kevin
+The contents of /home/ugrads/klinnane/cs1302/project2/src/hello/goodbye.tab are shown in the output panel
+
+
+kevin
+The contents of /home/ugrads/klinnane/cs1302/project2/src/hello/goodbye.tab are shown in the output panel
+
+
+Database why created. 
+/home/ugrads/klinnane/cs1302/project2/src/why
+
+kevin
+The contents of /home/ugrads/klinnane/cs1302/project2/src/hello/goodbye.tab are shown in the output panel
+
+

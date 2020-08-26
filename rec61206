@@ -1,0 +1,44 @@
+project2:
+total 12
+drwxr-xr-x. 2 ugrad 4096 Mar 15 21:33 bin
+-rw-r--r--. 1 ugrad  598 Mar 15 21:34 org.eclipse.jdt.core.prefs
+-rw-r--r--. 1 ugrad    0 Mar 19 17:24 rec61206
+drwxr-xr-x. 3 ugrad 4096 Mar 16 15:24 src
+
+project2/bin:
+total 60
+-rw-r--r--. 1 ugrad  1475 Mar 15 21:33 1 command.png
+-rw-r--r--. 1 ugrad  2699 Mar 15 21:33 Controller$ButtonListener.class
+-rw-r--r--. 1 ugrad 11290 Mar 15 21:33 Controller.class
+-rw-r--r--. 1 ugrad  5966 Mar 15 21:33 Controller$MenuListener.class
+-rw-r--r--. 1 ugrad  7003 Mar 15 21:33 Database.class
+-rw-r--r--. 1 ugrad 10458 Mar 15 21:33 DBCommands.class
+-rw-r--r--. 1 ugrad   359 Mar 15 21:33 Error Icon.png
+-rw-r--r--. 1 ugrad  3339 Mar 15 21:33 Preferences.class
+-rw-r--r--. 1 ugrad   333 Mar 15 21:33 Status Icon.png
+
+project2/src:
+total 116
+-rw-r--r--. 1 ugrad     0 Mar 16 15:23 Controller
+-rw-r--r--. 1 ugrad   178 Mar 16 15:19 Controller$1.class
+-rw-r--r--. 1 ugrad  2387 Mar 16 15:19 Controller$ButtonListener.class
+-rw-r--r--. 1 ugrad 10981 Mar 16 15:19 Controller.class
+-rw-r--r--. 1 ugrad 17909 Mar 15 21:55 Controller.java
+-rw-r--r--. 1 ugrad  5032 Mar 16 15:19 Controller$MenuListener.class
+-rw-r--r--. 1 ugrad  6288 Mar 16 15:19 Database.class
+-rw-r--r--. 1 ugrad 13557 Mar 16 15:19 Database.java
+-rw-r--r--. 1 ugrad  8456 Mar 16 15:19 DBCommands.class
+-rw-r--r--. 1 ugrad 13824 Mar 16 15:19 DBCommands.java
+drwxr-xr-x. 2 ugrad  4096 Mar 15 21:16 Images
+-rw-r--r--. 1 ugrad  2536 Mar 15 21:48 Preferences.class
+-rw-r--r--. 1 ugrad  2797 Mar 15 21:18 Preferences.java
+-rw-r--r--. 1 ugrad   105 Mar 16 15:22 README.txt
+
+project2/src/Images:
+total 20
+-rw-r--r--. 1 ugrad 1475 Mar 15 21:16 1 command.png
+-rw-r--r--. 1 ugrad 1540 Mar 15 21:16 AllCommands.png
+-rw-r--r--. 1 ugrad  359 Mar 15 21:16 Error Icon.png
+-rw-r--r--. 1 ugrad  333 Mar 15 21:16 Status Icon.png
+-rw-r--r--. 1 ugrad 1382 Mar 15 21:16 sweep.png
+/home/ugrads/klinnane/cs1302/project2:/home/work/cs1302b

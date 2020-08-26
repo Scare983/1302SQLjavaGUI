@@ -1,0 +1,2 @@
+create database why;
+select * from hello.goodbye;
